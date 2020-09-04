@@ -37,4 +37,3 @@ for i in new_set:
     column+=1
     value_column+=1
 workbook.close()
-

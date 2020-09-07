@@ -3,13 +3,16 @@
 # EXTACTNG All Branches and Nodes
 ![](https://github.com/rajith24/Xml_data_to_excel_sheet/blob/master/Title_extracted.PNG)
 ### Aim:
->   * To perform an Overtaking Scenario
->   * To view the details of ego-vehicle through pygame window
-### Things To Know:
->   * What is [CARLA](https://carla.readthedocs.io/en/latest/getting_started/)?
+>   * To extract all data from your xml file.
+>   * To store and view the data extracted in excel.
+>   * To ease and facilitate better visualization of data.
+### Things To Do:
+>   * Clone or Download my [github repository](https://github.com/rajith24/Xml_data_to_excel_sheet.git)
+>   * Paste your .xml inside the cloned repository.
+>   * OPEN [parsing_xml.py](https://github.com/rajith24/Xml_data_to_excel_sheet/blob/master/parsing_xml.py) file.
 >   * Basic knowledge of some [Scenarios](https://github.com/carla-simulator/scenario_runner)
 ### Required Installations:
->   * CARLA Package ([*Windows*](https://github.com/carla-simulator/carla/releases/tag/0.9.5) , [*Linux*](https://github.com/carla-simulator/carla/releases/tag/0.9.7))
+>   * Python 3.5 or higher ([*Windows*](https://github.com/carla-simulator/carla/releases/tag/0.9.5) , [*Linux*](https://github.com/carla-simulator/carla/releases/tag/0.9.7))
 >   * Launch File Locaion([*CarlaUE4.exe*](),[*CarlaUE4.sh*]())
 ### Ways To Do:
 >   * Ego-Vehicle can be controlled using [PID](https://en.wikipedia.org/wiki/PID_controller) controllers

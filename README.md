@@ -1,6 +1,6 @@
 # Xml_data_to_excel_sheet
 ![](https://github.com/rajith24/Xml_data_to_excel_sheet/blob/master/Data_extracted.PNG)
-# EXTACTNG All Branches and Nodes
+# EXTRACTNG All Branches and Nodes
 ![](https://github.com/rajith24/Xml_data_to_excel_sheet/blob/master/Title_extracted.PNG)
 ### Aim:
 >   * To extract all data from your xml file.
@@ -14,15 +14,18 @@
 >   * Also change the name of the ecxel file created as your requirement.
 >   * Now everything is done and run the python file in terminal to get your desired output.
 ### Required Installations:
->   * Python 3.5 or higher ([*Windows*](https://github.com/carla-simulator/carla/releases/tag/0.9.5) , [*Linux*](https://github.com/carla-simulator/carla/releases/tag/0.9.7))
->   * Launch File Locaion([*CarlaUE4.exe*](),[*CarlaUE4.sh*]())
-### Ways To Do:
->   * Ego-Vehicle can be controlled using [PID](https://en.wikipedia.org/wiki/PID_controller) controllers
->   * Ego-Vehicle Trajectory can also be defined using [Local_planner](https://github.com/carla-simulator/carla/blob/master/PythonAPI/carla/agents/navigation/local_planner.py)
+>   * Python 3.5 or higher ([*Python*](https://www.python.org/downloads/release/python-370/))
+### Title Extraction:
+>   * If you have followed the above steps then the output might be like [this](https://github.com/rajith24/Xml_data_to_excel_sheet/blob/master/Title_extracted.PNG).
+>   * If you see some links in your ([*title*](https://github.com/rajith24/Xml_data_to_excel_sheet/blob/master/your_data_has_been_extracted_1.xlsx)) do the following steps or else enjoy!!!....
+>   * In order to remove the links before your title delete the [xmlns](https://github.com/rajith24/Xml_data_to_excel_sheet.git) as shown here.
+>   * If you could not see the xmlns link then search for the link that is in your excel file and delete it in your xml file and run the python file again.
+>   * Hopefully everything is solved. ENJOY!!!...
+>   * If not please let me know yours and I will guide you.
 
+### Project Output:
 
-### Project Demo:
+Short visualization of this project 
 
-Short demo to visualize this project 
-
->   * [Overtaking Scenario](https://drive.google.com/file/d/16d5KztUdi_XM5WZrWE-IYAB7LX-5Xrr1/view?usp=sharing)
+>   * [Extracting Data](https://github.com/rajith24/Xml_data_to_excel_sheet/blob/master/Title_extracted.PNG)
+>   * In my case I have converted 47K lines of my xml data into xlsx.

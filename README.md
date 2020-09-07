@@ -10,7 +10,9 @@
 >   * Clone or Download my [github repository](https://github.com/rajith24/Xml_data_to_excel_sheet.git)
 >   * Paste your .xml inside the cloned repository.
 >   * OPEN [parsing_xml.py](https://github.com/rajith24/Xml_data_to_excel_sheet/blob/master/parsing_xml.py) file.
->   * Basic knowledge of some [Scenarios](https://github.com/carla-simulator/scenario_runner)
+>   * Edit [parsing_xml.py](https://github.com/rajith24/Xml_data_to_excel_sheet/blob/master/parsing_xml.py) file by changing the name of input .xml file to your .xml file name.
+>   * Also change the name of the ecxel file created as your requirement.
+>   * Now everything is done and run the python file in terminal to get your desired output.
 ### Required Installations:
 >   * Python 3.5 or higher ([*Windows*](https://github.com/carla-simulator/carla/releases/tag/0.9.5) , [*Linux*](https://github.com/carla-simulator/carla/releases/tag/0.9.7))
 >   * Launch File Locaion([*CarlaUE4.exe*](),[*CarlaUE4.sh*]())

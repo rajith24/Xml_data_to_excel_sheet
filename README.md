@@ -21,7 +21,7 @@
 >   * In order to remove the links before your title delete the [xmlns](https://github.com/rajith24/Xml_data_to_excel_sheet.git) as shown here.
 >   * If you could not see the xmlns link then search for the link that is in your excel file and delete it in your xml file and run the python file again.
 >   * Hopefully everything is solved. ENJOY!!!...
->   * If not please let me know yours and I will guide you.
+>   * If there are some issues let me know yours and I will guide you.
 
 ### Project Output:
 
